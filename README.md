@@ -1,6 +1,6 @@
 # Skyhack
 
-We used MYSQL Workbench to import the provided hack files and conducted analysis using Google Colaboratory and MYSQL files, which are accessible through the folder skyhack and ipynb file.
+We used MYSQL Workbench to import the provided hack files and conducted analysis using Google Colaboratory and MYSQL files, which are accessible through the folder skyhack (MYSQL WORKBENCH) and ipynb file (Google colab).
 
 Within the folder are the following items (MYSQL WORKBENCH):
 1. Percentage_difference: Determine the % difference in handling times for the most and least frequent call reasons on average.
